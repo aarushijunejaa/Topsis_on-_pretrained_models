@@ -1,4 +1,8 @@
-# Topsis_on_pretrained_models
+# Topsis_on_pretrained_models( Text generation)
+
+# Name : Aarushi Juneja 
+# Class : 3CO28
+# Roll No. : 102103781
 The code establishes a Gradio interface to interact with OpenAI's pre-trained GPT-2 model for text generation. Utilizing the Transformers library, it enables users to input text and receive GPT-2-generated completions through the interface.
 
 ![image](https://github.com/aarushijunejaa/Topsis_on_pretrained_models/assets/143161557/c7452fe0-9977-4a78-b952-6eb9749e4216)
